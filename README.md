@@ -9,3 +9,5 @@
 - UWP
 
 Please view the [new repository](https://github.com/mattregul/Xamarin_Screensize) 😎
+
+*(keeping this repo alive since there are links to it out on the web)*
