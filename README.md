@@ -1,5 +1,3 @@
-# Xamarin_GetDeviceScreensize
-
 ## NOTE: This code has been updated in a [new repository](https://github.com/mattregul/Xamarin_Screensize)
 **View it here:** https://github.com/mattregul/Xamarin_Screensize
 
